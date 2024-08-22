@@ -39,4 +39,10 @@ Feel free to check out my repositories and contribute if you're interested!
 
 ---
 -->
+
+## 🔗 Let's be friends:
+
+- [Hugging Face](https://huggingface.co/Yunseo-Lab) <- but It's empty 😅
+
+
 ⭐️ From [Yunseo](https://github.com/Yunseo-Lab)
