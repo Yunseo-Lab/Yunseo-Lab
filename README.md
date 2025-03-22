@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning **NLP**
 - 💬 Ask me about **Anything!**
 - 🎓 I’ve completed up to the 3rd year, 1st semester at Soongsil University, majoring in AI Convergence.
-- 🌱 Currently participating in the NAVER Boostcamp AI Tech 7th course.
 - 📫 How to reach me: **yunseo.lab@gmail.com**
 
 <!-- ## 🛠️ Technologies & Tools
