@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/magician-banner.png" alt="An antique tarot landscape with roses, a radiant sun, and a magician’s worktable" width="100%">
+</p>
+
 # Yunseo
 
 I'm interested in multimodal retrieval and AI agents.
