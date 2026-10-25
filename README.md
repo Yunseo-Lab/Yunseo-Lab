@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/magician-banner.png" alt="An antique tarot landscape with roses, a radiant sun, and a magician’s worktable" width="100%">
+  <img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-banner.png" alt="NUBI, a friendly silver alien exploring a mauve planet" width="100%">
 </p>
 
 # Yunseo
