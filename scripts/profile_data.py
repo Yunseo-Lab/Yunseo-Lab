@@ -33,7 +33,7 @@ def category_for(repo, profile):
             if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', name):
                 raise ValueError(f'{name}: private names must use lowercase kebab-case')
             return category['key']
-    raise ValueError(f'{name}: private repository needs an approved proj-/lab-/study-/tool-/notes- category')
+    raise ValueError(f'{name}: private repository needs an approved proj-/lab-/study-/tool-/space- category')
 
 
 def source_path(root, relative, prefix='assets/'):
@@ -50,7 +50,7 @@ def validate(profile, repositories, root=ROOT, check_files=True):
     if not repositories:
         raise ValueError('Refusing an empty repository inventory')
     keys = [c['key'] for c in profile['categories']]
-    if keys != ['public', 'projects', 'labs', 'study', 'tools', 'notes']:
+    if keys != ['public', 'projects', 'labs', 'study', 'tools', 'space']:
         raise ValueError('Preserve the approved six-category navigation order')
     ids, names = set(), set()
     for repo in repositories:

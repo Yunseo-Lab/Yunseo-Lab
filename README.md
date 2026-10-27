@@ -10,7 +10,7 @@ I build systems that help people find, understand, and work with information.
 <!-- BEGIN REPOSITORY INDEX -->
 ## Explore the workspace
 
-42 repositories · 10 public · 32 private
+44 repositories · 10 public · 34 private
 
 <table width="100%">
 <tr>
@@ -19,7 +19,7 @@ I build systems that help people find, understand, and work with information.
 <td align="center" width="16%"><a href="#user-content-labs"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/labs.png" alt="NUBI Labs" width="110"><br><strong>Labs</strong></a><br><sub>11 repositories</sub></td>
 <td align="center" width="16%"><a href="#user-content-study"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/study.png" alt="NUBI Study" width="110"><br><strong>Study</strong></a><br><sub>3 repositories</sub></td>
 <td align="center" width="16%"><a href="#user-content-tools"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/tools.png" alt="NUBI Tools" width="110"><br><strong>Tools</strong></a><br><sub>2 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-notes"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/notes.png" alt="NUBI Notes" width="110"><br><strong>Notes</strong></a><br><sub>1 repository</sub></td>
+<td align="center" width="16%"><a href="#user-content-space"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/space.png" alt="NUBI Space" width="110"><br><strong>Space</strong></a><br><sub>3 repositories</sub></td>
 </tr>
 </table>
 
@@ -99,12 +99,14 @@ I build systems that help people find, understand, and work with information.
 <a href="https://github.com/Yunseo-Lab/tool-cgv-imax-helper" title="tool-cgv-imax-helper — CGV IMAX 상영의 인접 좌석을 모니터링하고 선택하는 Chrome 확장 프로그램."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/tool-cgv-imax-helper.mobile.svg?v=ac0036407f03"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/tool-cgv-imax-helper.svg?v=605b7ca80e05" alt="tool-cgv-imax-helper — CGV IMAX 상영의 인접 좌석을 모니터링하고 선택하는 Chrome 확장 프로그램." width="410"></picture></a>
 </p>
 
-<a name="notes"></a>
+<a name="space"></a>
 
-<p><picture><source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/notes.mobile.svg?v=cd2f1c454946"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/notes.svg?v=11b43d8ab315" alt="Notes · 1 · 생각과 지식을 모으는 개인 문서" width="840"></picture></p>
+<p><picture><source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/space.mobile.svg?v=5ebe1f12f11a"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/space.svg?v=3b22a4d9d52a" alt="Space · 3 · 지식을 쌓고 생각과 작업을 나누는 개인 공간" width="840"></picture></p>
 
 <p>
-<a href="https://github.com/Yunseo-Lab/notes-yunseo-lab" title="notes-yunseo-lab — Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/notes-yunseo-lab.mobile.svg?v=51c0560088fd"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/notes-yunseo-lab.svg?v=bcfc2296ee81" alt="notes-yunseo-lab — Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록." width="410"></picture></a>
+<a href="https://github.com/Yunseo-Lab/space-blog" title="space-blog — 개인 블로그의 글과 사이트 소스를 관리하는 공간."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-blog.mobile.svg?v=a538f52130cd"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-blog.svg?v=5db03a63577e" alt="space-blog — 개인 블로그의 글과 사이트 소스를 관리하는 공간." width="410"></picture></a>
+<a href="https://github.com/Yunseo-Lab/space-portfolio" title="space-portfolio — 경력과 프로젝트를 소개하는 개인 포트폴리오 공간."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-portfolio.mobile.svg?v=963f9cd3dde1"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-portfolio.svg?v=46e3e4bbb327" alt="space-portfolio — 경력과 프로젝트를 소개하는 개인 포트폴리오 공간." width="410"></picture></a>
+<a href="https://github.com/Yunseo-Lab/space-wiki" title="space-wiki — Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-wiki.mobile.svg?v=b9697c38f740"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/space-wiki.svg?v=bee86eacc355" alt="space-wiki — Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록." width="410"></picture></a>
 </p>
 
 <sub>Private repository contents are available to authorized collaborators.</sub>

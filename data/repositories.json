@@ -20,11 +20,11 @@
     },
     {
       "id": 866378917,
-      "name": "notes-yunseo-lab",
+      "name": "space-wiki",
       "private": true,
       "fork": false,
       "description": "Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록.",
-      "illustration": "assets/illustrations/categories/notes.png"
+      "illustration": "assets/illustrations/categories/space.png"
     },
     {
       "id": 877696187,
@@ -339,6 +339,22 @@
       "description": "Personal monthly and hourly weekly planner with a Hallmark Hum design",
       "illustration": "assets/illustrations/cards/planner.png",
       "description_override": "월간 계획과 시간 단위 주간 일정을 관리하는 개인 플래너."
+    },
+    {
+      "id": 1435666091,
+      "name": "space-blog",
+      "private": true,
+      "fork": false,
+      "description": "개인 블로그의 글과 사이트 소스를 관리하는 공간.",
+      "illustration": "assets/illustrations/categories/space.png"
+    },
+    {
+      "id": 1435666201,
+      "name": "space-portfolio",
+      "private": true,
+      "fork": false,
+      "description": "경력과 프로젝트를 소개하는 개인 포트폴리오 공간.",
+      "illustration": "assets/illustrations/categories/space.png"
     }
   ]
 }
