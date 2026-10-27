@@ -13,11 +13,11 @@
 | Labs | `lab-<name>` | 구현하며 탐구하는 실험·검증·재현·프로토타입 |
 | Study | `study-<name>` | 교재·수업·이론을 따라 정리하는 학습 기록 |
 | Tools | `tool-<name>` | 실제로 반복 사용하며 작업을 줄이는 자동화·유틸리티 |
-| Space | `space-<name>` | 세컨드 브레인·블로그·포트폴리오를 담는 개인 공간 |
+| Space | 승인된 개별 이름 (`space-wiki`, `yunseo-blog`, `yunseo-portfolio`) | 세컨드 브레인·블로그·포트폴리오를 담는 개인 공간 |
 
-- **공개 리포에는 위 비공개 prefix를 붙이지 않는다. 비공개 리포에만 붙인다.** 공개 리포가 프로젝트여도 프로필의 Public work에 표시한다.
+- **공개 리포에는 위 비공개 prefix를 붙이지 않는다. 비공개 리포에만 붙인다.** Space는 분류명이며 리포 이름에 일괄 접두사로 붙이지 않는다. `space-wiki`, `yunseo-blog`, `yunseo-portfolio`는 승인된 이름을 유지하고 `category_override: space`로 분류한다. 공개 리포가 프로젝트여도 프로필의 Public work에 표시한다.
 - 새 일반 비공개 이름은 소문자 kebab-case로 쓴다. 기존 공개 리포의 고유 표기와 fork 이름은 보존한다.
-- 실습·구현이 중심이면 보통 `proj-` 또는 `lab-`, 문서 기록이 중심이면 `study-` 또는 `space-`다. 단순히 코드가 있다는 이유로 승인된 기존 분류를 바꾸지 않는다.
+- 실습·구현이 중심이면 보통 `proj-` 또는 `lab-`, 학습 기록이 중심이면 `study-`, 개인 위키·블로그·포트폴리오는 Space 분류다. 단순히 코드가 있다는 이유로 승인된 기존 분류를 바꾸지 않는다.
 - `lab-hello-agent`, `lab-embedding-classification`, `lab-langchain-mcp`, `lab-ref-ranker`는 실험이다. `proj-game`, `proj-chat-frontend`, `proj-storybook-studio`, `proj-llm-chat-app`은 프로젝트다. `tool-auto-video-downloader`는 도구의 기준 사례다.
 - `Yunseo-Lab.github.io`는 이름 변경 금지 예외다. 현재 목록에 없더라도 임의로 만들거나 복원하지 않는다. 다시 나타나면 실제 공개 여부와 의도를 확인하고, 비공개라면 승인된 `category_override`로 원래 이름을 유지한다.
 - 프로필 동기화를 이유로 원격 리포 이름·공개 여부·보관 상태를 임의로 바꾸지 않는다. 그런 변경은 사용자가 요청한 작업 범위에서만 수행한다. 동기화 스크립트는 원격 설정을 변경하지 않는다.

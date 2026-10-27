@@ -139,7 +139,7 @@ def card_data(repo, group):
     lines = wrap(desc, 245, 16)
     mobile_lines = wrap(desc, 274, 18.8)
     result.update(
-        label=group['prefix'] or ('public / fork' if repo['fork'] else 'public'),
+        label=(('public / fork' if repo['fork'] else 'public') if group['key'] == 'public' else (group['prefix'] or group['title'])),
         title_size=title_size, lines=lines, height=max(184, 96 + len(lines)*22),
         mobile_title_size=mobile_title_size, mobile_lines=mobile_lines,
         mobile_height=max(198, 102 + len(mobile_lines)*25),

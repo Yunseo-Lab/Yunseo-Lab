@@ -33,7 +33,7 @@ def category_for(repo, profile):
             if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', name):
                 raise ValueError(f'{name}: private names must use lowercase kebab-case')
             return category['key']
-    raise ValueError(f'{name}: private repository needs an approved proj-/lab-/study-/tool-/space- category')
+    raise ValueError(f'{name}: private repository needs an approved category prefix or named category override')
 
 
 def source_path(root, relative, prefix='assets/'):
