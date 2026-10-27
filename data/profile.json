@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "owner": "Yunseo-Lab",
+  "repository": "Yunseo-Lab",
+  "branch": "main",
+  "display_name": "Yunseo",
+  "introduction": [
+    "I'm interested in multimodal retrieval and AI agents.",
+    "I build systems that help people find, understand, and work with information."
+  ],
+  "banner": {
+    "path": "assets/branding/nubi-banner.png",
+    "alt": "NUBI, a friendly silver alien exploring a mauve planet"
+  },
+  "fonts": {
+    "regular": "assets/fonts/Pretendard-Regular.otf",
+    "bold": "assets/fonts/Pretendard-Bold.otf",
+    "license": "assets/fonts/OFL.txt"
+  },
+  "protected_repository_names": [
+    "Yunseo-Lab.github.io"
+  ],
+  "categories": [
+    {
+      "key": "public",
+      "title": "Public work",
+      "navigation_label": "Public",
+      "subtitle": "Open-source projects, utilities, and reference forks.",
+      "prefix": null,
+      "anchor": "public-work",
+      "illustration": "assets/illustrations/categories/public.png",
+      "preferred_ids": []
+    },
+    {
+      "key": "projects",
+      "title": "Projects",
+      "navigation_label": "Projects",
+      "subtitle": "앱·서비스·완성된 결과물",
+      "prefix": "proj-",
+      "anchor": "projects",
+      "illustration": "assets/illustrations/categories/projects.png",
+      "preferred_ids": [
+        1309910341,
+        1432924354,
+        1283582460,
+        1434369314,
+        1163390077,
+        1141049393
+      ]
+    },
+    {
+      "key": "labs",
+      "title": "Labs",
+      "navigation_label": "Labs",
+      "subtitle": "구현하며 탐구하는 실험과 프로토타입",
+      "prefix": "lab-",
+      "anchor": "labs",
+      "illustration": "assets/illustrations/categories/labs.png",
+      "preferred_ids": [
+        1236177972,
+        1109786857,
+        1134101402,
+        1050992822
+      ]
+    },
+    {
+      "key": "study",
+      "title": "Study",
+      "navigation_label": "Study",
+      "subtitle": "이론·교재·수업을 따라 정리한 학습 기록",
+      "prefix": "study-",
+      "anchor": "study",
+      "illustration": "assets/illustrations/categories/study.png",
+      "preferred_ids": []
+    },
+    {
+      "key": "tools",
+      "title": "Tools",
+      "navigation_label": "Tools",
+      "subtitle": "반복 작업을 줄이는 자동화와 유틸리티",
+      "prefix": "tool-",
+      "anchor": "tools",
+      "illustration": "assets/illustrations/categories/tools.png",
+      "preferred_ids": []
+    },
+    {
+      "key": "notes",
+      "title": "Notes",
+      "navigation_label": "Notes",
+      "subtitle": "생각과 지식을 모으는 개인 문서",
+      "prefix": "notes-",
+      "anchor": "notes",
+      "illustration": "assets/illustrations/categories/notes.png",
+      "preferred_ids": []
+    }
+  ]
+}
