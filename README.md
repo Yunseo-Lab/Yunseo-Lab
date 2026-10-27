@@ -14,12 +14,12 @@ I build systems that help people find, understand, and work with information.
 
 <table width="100%">
 <tr>
-<td align="center" width="16%"><a href="#user-content-public-work"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/public.png" alt="NUBI Public" width="88"><br><strong>Public</strong></a><br><sub>10 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-projects"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/projects.png" alt="NUBI Projects" width="88"><br><strong>Projects</strong></a><br><sub>15 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-labs"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/labs.png" alt="NUBI Labs" width="88"><br><strong>Labs</strong></a><br><sub>11 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-study"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/study.png" alt="NUBI Study" width="88"><br><strong>Study</strong></a><br><sub>3 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-tools"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/tools.png" alt="NUBI Tools" width="88"><br><strong>Tools</strong></a><br><sub>2 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-notes"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/notes.png" alt="NUBI Notes" width="88"><br><strong>Notes</strong></a><br><sub>1 repository</sub></td>
+<td align="center" width="16%"><a href="#user-content-public-work"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/public.png" alt="NUBI Public" width="110"><br><strong>Public</strong></a><br><sub>10 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-projects"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/projects.png" alt="NUBI Projects" width="110"><br><strong>Projects</strong></a><br><sub>15 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-labs"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/labs.png" alt="NUBI Labs" width="110"><br><strong>Labs</strong></a><br><sub>11 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-study"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/study.png" alt="NUBI Study" width="110"><br><strong>Study</strong></a><br><sub>3 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-tools"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/tools.png" alt="NUBI Tools" width="110"><br><strong>Tools</strong></a><br><sub>2 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-notes"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/notes.png" alt="NUBI Notes" width="110"><br><strong>Notes</strong></a><br><sub>1 repository</sub></td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@ Open-source projects, utilities, and reference forks.
 <tr>
 <td width="50%" valign="top">
 <a name="projects"></a>
-<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/projects.png" alt="NUBI Projects" width="48"> Projects <sup>15</sup></h3>
+<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/projects.png" alt="NUBI Projects" width="64"> Projects <sup>15</sup></h3>
 <p>앱·서비스·완성된 결과물<br><sub>PRIVATE · <code>proj-</code></sub></p>
 <hr>
 <p><a href="https://github.com/Yunseo-Lab/proj-atelier"><strong>proj-atelier</strong></a><br>개인 사이트·블로그·아이디어·프로젝트 작업 공간을 모은 통합 리포.</p>
@@ -63,7 +63,7 @@ Open-source projects, utilities, and reference forks.
 </td>
 <td width="50%" valign="top">
 <a name="labs"></a>
-<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/labs.png" alt="NUBI Labs" width="48"> Labs <sup>11</sup></h3>
+<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/labs.png" alt="NUBI Labs" width="64"> Labs <sup>11</sup></h3>
 <p>구현하며 탐구하는 실험과 프로토타입<br><sub>PRIVATE · <code>lab-</code></sub></p>
 <hr>
 <p><a href="https://github.com/Yunseo-Lab/lab-ai-agent"><strong>lab-ai-agent</strong></a><br>LangGraph로 PDF 검색·페이지 읽기·출처 기반 답변 흐름을 구현한 에이전트 실습.</p>
@@ -82,7 +82,7 @@ Open-source projects, utilities, and reference forks.
 <tr>
 <td width="50%" valign="top">
 <a name="study"></a>
-<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/study.png" alt="NUBI Study" width="48"> Study <sup>3</sup></h3>
+<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/study.png" alt="NUBI Study" width="64"> Study <sup>3</sup></h3>
 <p>이론·교재·수업을 따라 정리한 학습 기록<br><sub>PRIVATE · <code>study-</code></sub></p>
 <hr>
 <p><a href="https://github.com/Yunseo-Lab/study-algorithms"><strong>study-algorithms</strong></a><br>Python 기반 알고리즘·자료구조 이론 정리와 코딩 테스트 문제 풀이.</p>
@@ -91,7 +91,7 @@ Open-source projects, utilities, and reference forks.
 </td>
 <td width="50%" valign="top">
 <a name="tools"></a>
-<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/tools.png" alt="NUBI Tools" width="48"> Tools <sup>2</sup></h3>
+<h3><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/tools.png" alt="NUBI Tools" width="64"> Tools <sup>2</sup></h3>
 <p>반복 작업을 줄이는 자동화와 유틸리티<br><sub>PRIVATE · <code>tool-</code></sub></p>
 <hr>
 <p><a href="https://github.com/Yunseo-Lab/tool-auto-video-downloader"><strong>tool-auto-video-downloader</strong></a><br>Selenium 기반 로그인·영상 메타데이터 추출과 병렬 다운로드를 자동화하는 Python 도구.</p>
@@ -102,7 +102,7 @@ Open-source projects, utilities, and reference forks.
 
 <a name="notes"></a>
 
-### <img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/notes.png" alt="NUBI Notes" width="48"> Notes <sup>1</sup>
+### <img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/nubi-stickers/notes.png" alt="NUBI Notes" width="64"> Notes <sup>1</sup>
 
 생각과 지식을 모으는 개인 문서 · <code>notes-</code>
 
