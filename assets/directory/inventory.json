@@ -1,0 +1,940 @@
+[
+  {
+    "key": "public",
+    "title": "Public work",
+    "subtitle": "Open-source projects, utilities, and reference forks.",
+    "repos": [
+      {
+        "name": "agent-arena",
+        "description": "A real-time Gomoku app with structured APIs for agent integration.",
+        "url": "https://github.com/Yunseo-Lab/agent-arena",
+        "private": false,
+        "art": "hello-agent",
+        "label": "public",
+        "title_size": 22,
+        "lines": [
+          "A real-time Gomoku app with",
+          "structured APIs for agent",
+          "integration."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "A real-time Gomoku app with",
+          "structured APIs for agent",
+          "integration."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "homebrew-tap",
+        "description": "Homebrew cask for Tomato Cat, a macOS menu bar Pomodoro app.",
+        "url": "https://github.com/Yunseo-Lab/homebrew-tap",
+        "private": false,
+        "art": "category-tools",
+        "label": "public",
+        "title_size": 22,
+        "lines": [
+          "Homebrew cask for Tomato Cat,",
+          "a macOS menu bar Pomodoro",
+          "app."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Homebrew cask for Tomato Cat, a",
+          "macOS menu bar Pomodoro app."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "open-roadmap",
+        "description": "An AI-assisted roadmap editor that connects goals, progress, and evidence.",
+        "url": "https://github.com/Yunseo-Lab/open-roadmap",
+        "private": false,
+        "art": "planner",
+        "label": "public",
+        "title_size": 22,
+        "lines": [
+          "An AI-assisted roadmap editor",
+          "that connects goals, progress,",
+          "and evidence."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "An AI-assisted roadmap editor that",
+          "connects goals, progress, and",
+          "evidence."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "SayItSeeIt",
+        "description": "Generate promotional visuals from natural-language requests and images, built on LayoutPrompter.",
+        "url": "https://github.com/Yunseo-Lab/SayItSeeIt",
+        "private": false,
+        "art": "storybook",
+        "label": "public",
+        "title_size": 22,
+        "lines": [
+          "Generate promotional visuals",
+          "from natural-language requests",
+          "and images, built on",
+          "LayoutPrompter."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Generate promotional visuals from",
+          "natural-language requests and",
+          "images, built on LayoutPrompter."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "Yunseo-Lab",
+        "description": "Personal profile and categorized repository directory.",
+        "url": "https://github.com/Yunseo-Lab/Yunseo-Lab",
+        "private": false,
+        "art": "category-public",
+        "label": "public",
+        "title_size": 22,
+        "lines": [
+          "Personal profile and categorized",
+          "repository directory."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Personal profile and categorized",
+          "repository directory."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "langgraph-mcp-agents",
+        "description": "Fork of a LangGraph ReAct agent with MCP tools and a Streamlit interface.",
+        "url": "https://github.com/Yunseo-Lab/langgraph-mcp-agents",
+        "private": false,
+        "art": "hello-agent",
+        "label": "public / fork",
+        "title_size": 22,
+        "lines": [
+          "Fork of a LangGraph ReAct agent",
+          "with MCP tools and a Streamlit",
+          "interface."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Fork of a LangGraph ReAct agent",
+          "with MCP tools and a Streamlit",
+          "interface."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "LayoutGeneration",
+        "description": "Fork of Microsoft's graphic layout generation research, including LayoutPrompter.",
+        "url": "https://github.com/Yunseo-Lab/LayoutGeneration",
+        "private": false,
+        "art": "storybook",
+        "label": "public / fork",
+        "title_size": 22,
+        "lines": [
+          "Fork of Microsoft's graphic layout",
+          "generation research, including",
+          "LayoutPrompter."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Fork of Microsoft's graphic layout",
+          "generation research, including",
+          "LayoutPrompter."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "python_mcp_agent",
+        "description": "Fork of a Python MCP agent for YouTube search, summaries, and channel analysis.",
+        "url": "https://github.com/Yunseo-Lab/python_mcp_agent",
+        "private": false,
+        "art": "hello-agent",
+        "label": "public / fork",
+        "title_size": 22,
+        "lines": [
+          "Fork of a Python MCP agent for",
+          "YouTube search, summaries, and",
+          "channel analysis."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Fork of a Python MCP agent for",
+          "YouTube search, summaries, and",
+          "channel analysis."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "yolov1-resnet",
+        "description": "Fork of a PyTorch YOLOv1 implementation with a ResNet50 backbone.",
+        "url": "https://github.com/Yunseo-Lab/yolov1-resnet",
+        "private": false,
+        "art": "onnx",
+        "label": "public / fork",
+        "title_size": 22,
+        "lines": [
+          "Fork of a PyTorch YOLOv1",
+          "implementation with a ResNet50",
+          "backbone."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Fork of a PyTorch YOLOv1",
+          "implementation with a ResNet50",
+          "backbone."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "yolov5",
+        "description": "Fork of Ultralytics YOLOv5 for PyTorch object detection and model export.",
+        "url": "https://github.com/Yunseo-Lab/yolov5",
+        "private": false,
+        "art": "embedding",
+        "label": "public / fork",
+        "title_size": 22,
+        "lines": [
+          "Fork of Ultralytics YOLOv5 for",
+          "PyTorch object detection and",
+          "model export."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Fork of Ultralytics YOLOv5 for",
+          "PyTorch object detection and model",
+          "export."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  },
+  {
+    "key": "projects",
+    "title": "Projects",
+    "subtitle": "앱·서비스·완성된 결과물",
+    "repos": [
+      {
+        "name": "proj-floe",
+        "description": "floe: 할 일·프로젝트·반복 일정과 Google Tasks 연동을 제공하는 개인 일정 관리 웹·Android 앱.",
+        "url": "https://github.com/Yunseo-Lab/proj-floe",
+        "private": true,
+        "art": "floe",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "floe: 할 일·프로젝트·반복 일정과",
+          "Google Tasks 연동을 제공하는 개인",
+          "일정 관리 웹·Android 앱."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "floe: 할 일·프로젝트·반복 일정과 Google",
+          "Tasks 연동을 제공하는 개인 일정 관리",
+          "웹·Android 앱."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-engram",
+        "description": "Glance·Helix Foundry·LLM Wiki를 연결한 개인 지식 허브와 에이전트 메모리 뱅크.",
+        "url": "https://github.com/Yunseo-Lab/proj-engram",
+        "private": true,
+        "art": "engram",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "Glance·Helix Foundry·LLM Wiki를",
+          "연결한 개인 지식 허브와 에이전트",
+          "메모리 뱅크."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Glance·Helix Foundry·LLM Wiki를",
+          "연결한 개인 지식 허브와 에이전트 메모리",
+          "뱅크."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-folio",
+        "description": "경력 근거·채용 공고·지원 이력과 직무 적합도 분석을 관리하는 로컬 우선 커리어 워크스페이스.",
+        "url": "https://github.com/Yunseo-Lab/proj-folio",
+        "private": true,
+        "art": "folio",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "경력 근거·채용 공고·지원 이력과 직무",
+          "적합도 분석을 관리하는 로컬 우선",
+          "커리어 워크스페이스."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "경력 근거·채용 공고·지원 이력과 직무",
+          "적합도 분석을 관리하는 로컬 우선 커리어",
+          "워크스페이스."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-next-step-planner",
+        "description": "월간 계획과 시간 단위 주간 일정을 관리하는 개인 플래너.",
+        "url": "https://github.com/Yunseo-Lab/proj-next-step-planner",
+        "private": true,
+        "art": "planner",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "월간 계획과 시간 단위 주간 일정을",
+          "관리하는 개인 플래너."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "월간 계획과 시간 단위 주간 일정을",
+          "관리하는 개인 플래너."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-chat-frontend",
+        "description": "대화 세션과 메시지 기록을 관리하는 React·assistant-ui 기반 AI 채팅 프론트엔드.",
+        "url": "https://github.com/Yunseo-Lab/proj-chat-frontend",
+        "private": true,
+        "art": "chat",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "대화 세션과 메시지 기록을 관리하는",
+          "React·assistant-ui 기반 AI 채팅",
+          "프론트엔드."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "대화 세션과 메시지 기록을 관리하는",
+          "React·assistant-ui 기반 AI 채팅",
+          "프론트엔드."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-storybook-studio",
+        "description": "React·TypeScript·Vite 기반 Storybook Studio의 초기 화면 프로토타입.",
+        "url": "https://github.com/Yunseo-Lab/proj-storybook-studio",
+        "private": true,
+        "art": "storybook",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "React·TypeScript·Vite 기반",
+          "Storybook Studio의 초기 화면",
+          "프로토타입."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "React·TypeScript·Vite 기반",
+          "Storybook Studio의 초기 화면",
+          "프로토타입."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-atelier",
+        "description": "개인 사이트·블로그·아이디어·프로젝트 작업 공간을 모은 통합 리포.",
+        "url": "https://github.com/Yunseo-Lab/proj-atelier",
+        "private": true,
+        "art": "storybook",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "개인 사이트·블로그·아이디어·프로젝트",
+          "작업 공간을 모은 통합 리포."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "개인 사이트·블로그·아이디어·프로젝트",
+          "작업 공간을 모은 통합 리포."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-blackpaper",
+        "description": "국내 주식 모의투자를 위한 시세 조회·주문·포트폴리오 관리 웹 앱.",
+        "url": "https://github.com/Yunseo-Lab/proj-blackpaper",
+        "private": true,
+        "art": "ranker",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "국내 주식 모의투자를 위한 시세",
+          "조회·주문·포트폴리오 관리 웹 앱."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "국내 주식 모의투자를 위한 시세",
+          "조회·주문·포트폴리오 관리 웹 앱."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-boostcamp-final",
+        "description": "영상 다운로드·장면 분할·프레임 추출 등 영상 검색 프로젝트의 데이터 처리 코드.",
+        "url": "https://github.com/Yunseo-Lab/proj-boostcamp-final",
+        "private": true,
+        "art": "embedding",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "영상 다운로드·장면 분할·프레임 추출",
+          "등 영상 검색 프로젝트의 데이터 처리",
+          "코드."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "영상 다운로드·장면 분할·프레임 추출 등",
+          "영상 검색 프로젝트의 데이터 처리 코드."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-game",
+        "description": "Unity 기반 2D 정치 풍자 엔드리스 러너의 Android·iOS 게임 프로토타입.",
+        "url": "https://github.com/Yunseo-Lab/proj-game",
+        "private": true,
+        "art": "floe",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "Unity 기반 2D 정치 풍자 엔드리스",
+          "러너의 Android·iOS 게임 프로토타입."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Unity 기반 2D 정치 풍자 엔드리스",
+          "러너의 Android·iOS 게임 프로토타입."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-huh-yunseo-portfolio",
+        "description": "프로필·경력·테마·자산을 관리하고 공개 포트폴리오를 발행하는 React·Fastify 서비스.",
+        "url": "https://github.com/Yunseo-Lab/proj-huh-yunseo-portfolio",
+        "private": true,
+        "art": "folio",
+        "label": "proj-",
+        "title_size": 20.5,
+        "lines": [
+          "프로필·경력·테마·자산을 관리하고 공개",
+          "포트폴리오를 발행하는 React·Fastify",
+          "서비스."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "프로필·경력·테마·자산을 관리하고 공개",
+          "포트폴리오를 발행하는 React·Fastify",
+          "서비스."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-llm-chat-app",
+        "description": "Cloudflare Workers AI 채팅 템플릿을 활용한 스트리밍 LLM 웹 앱 실습.",
+        "url": "https://github.com/Yunseo-Lab/proj-llm-chat-app",
+        "private": true,
+        "art": "chat",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "Cloudflare Workers AI 채팅",
+          "템플릿을 활용한 스트리밍 LLM 웹 앱",
+          "실습."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Cloudflare Workers AI 채팅 템플릿을",
+          "활용한 스트리밍 LLM 웹 앱 실습."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-rss-feed-webapp",
+        "description": "피드 구독·폴더·읽음 상태·저장 항목을 관리하는 Next.js·Fastify 기반 개인 RSS 리더.",
+        "url": "https://github.com/Yunseo-Lab/proj-rss-feed-webapp",
+        "private": true,
+        "art": "engram",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "피드 구독·폴더·읽음 상태·저장 항목을",
+          "관리하는 Next.js·Fastify 기반 개인",
+          "RSS 리더."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "피드 구독·폴더·읽음 상태·저장 항목을",
+          "관리하는 Next.js·Fastify 기반 개인 RSS",
+          "리더."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-say-it-see-it",
+        "description": "LangGraph와 LayoutPrompter로 레이아웃·배경·이미지 생성을 연결하는 디자인 에이전트 실험.",
+        "url": "https://github.com/Yunseo-Lab/proj-say-it-see-it",
+        "private": true,
+        "art": "storybook",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "LangGraph와 LayoutPrompter로",
+          "레이아웃·배경·이미지 생성을 연결하는",
+          "디자인 에이전트 실험."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "LangGraph와 LayoutPrompter로",
+          "레이아웃·배경·이미지 생성을 연결하는",
+          "디자인 에이전트 실험."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "proj-trace2skill",
+        "description": "Trace2Skill의 Codex SDK 기반 재현 포트와 에이전트 스킬 진화·SpreadsheetBench 평가 실험.",
+        "url": "https://github.com/Yunseo-Lab/proj-trace2skill",
+        "private": true,
+        "art": "hello-agent",
+        "label": "proj-",
+        "title_size": 22,
+        "lines": [
+          "Trace2Skill의 Codex SDK 기반 재현",
+          "포트와 에이전트 스킬 진화·Spreadsh",
+          "eetBench 평가 실험."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Trace2Skill의 Codex SDK 기반 재현",
+          "포트와 에이전트 스킬 진화·Spreadsheet",
+          "Bench 평가 실험."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  },
+  {
+    "key": "labs",
+    "title": "Labs",
+    "subtitle": "구현하며 탐구하는 실험과 프로토타입",
+    "repos": [
+      {
+        "name": "lab-hello-agent",
+        "description": "Hello Agent 저장소를 바탕으로 Python 에이전트의 구조·실행 루프·도구 호출을 구현하고 실험한 기록.",
+        "url": "https://github.com/Yunseo-Lab/lab-hello-agent",
+        "private": true,
+        "art": "hello-agent",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "Hello Agent 저장소를 바탕으로",
+          "Python 에이전트의 구조·실행",
+          "루프·도구 호출을 구현하고 실험한",
+          "기록."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Hello Agent 저장소를 바탕으로 Python",
+          "에이전트의 구조·실행 루프·도구 호출을",
+          "구현하고 실험한 기록."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-embedding-classification",
+        "description": "LLM 쿼리 확장과 이미지·텍스트 임베딩 유사도를 활용한 이미지 랭킹·평가 실험.",
+        "url": "https://github.com/Yunseo-Lab/lab-embedding-classification",
+        "private": true,
+        "art": "embedding",
+        "label": "lab-",
+        "title_size": 18.0,
+        "lines": [
+          "LLM 쿼리 확장과 이미지·텍스트 임베딩",
+          "유사도를 활용한 이미지 랭킹·평가",
+          "실험."
+        ],
+        "height": 184,
+        "mobile_title_size": 20.0,
+        "mobile_lines": [
+          "LLM 쿼리 확장과 이미지·텍스트 임베딩",
+          "유사도를 활용한 이미지 랭킹·평가 실험."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-onnx",
+        "description": "PyTorch 모델의 ONNX 변환과 ONNX Runtime·BentoML 추론·서빙 실습.",
+        "url": "https://github.com/Yunseo-Lab/lab-onnx",
+        "private": true,
+        "art": "onnx",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "PyTorch 모델의 ONNX 변환과",
+          "ONNX Runtime·BentoML 추론·서빙",
+          "실습."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "PyTorch 모델의 ONNX 변환과 ONNX",
+          "Runtime·BentoML 추론·서빙 실습."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-ref-ranker",
+        "description": "임베딩 스코어링·MMR 선택·재랭킹을 조합하는 비동기 랭킹 파이프라인·SDK 실험.",
+        "url": "https://github.com/Yunseo-Lab/lab-ref-ranker",
+        "private": true,
+        "art": "ranker",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "임베딩 스코어링·MMR 선택·재랭킹을",
+          "조합하는 비동기 랭킹 파이프라인·SDK",
+          "실험."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "임베딩 스코어링·MMR 선택·재랭킹을",
+          "조합하는 비동기 랭킹 파이프라인·SDK",
+          "실험."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-ai-agent",
+        "description": "LangGraph로 PDF 검색·페이지 읽기·출처 기반 답변 흐름을 구현한 에이전트 실습.",
+        "url": "https://github.com/Yunseo-Lab/lab-ai-agent",
+        "private": true,
+        "art": "hello-agent",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "LangGraph로 PDF 검색·페이지",
+          "읽기·출처 기반 답변 흐름을 구현한",
+          "에이전트 실습."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "LangGraph로 PDF 검색·페이지",
+          "읽기·출처 기반 답변 흐름을 구현한",
+          "에이전트 실습."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-cudnn-mnist",
+        "description": "cuDNN 기반 MNIST 분류 구현과 버전별 GPU 학습 코드 실습.",
+        "url": "https://github.com/Yunseo-Lab/lab-cudnn-mnist",
+        "private": true,
+        "art": "onnx",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "cuDNN 기반 MNIST 분류 구현과",
+          "버전별 GPU 학습 코드 실습."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "cuDNN 기반 MNIST 분류 구현과 버전별",
+          "GPU 학습 코드 실습."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-deep-learning-from-scratch",
+        "description": "『밑바닥부터 시작하는 딥러닝』 기반 NumPy 신경망 구현과 학습 기록.",
+        "url": "https://github.com/Yunseo-Lab/lab-deep-learning-from-scratch",
+        "private": true,
+        "art": "category-study",
+        "label": "lab-",
+        "title_size": 17.0,
+        "lines": [
+          "『밑바닥부터 시작하는 딥러닝』 기반",
+          "NumPy 신경망 구현과 학습 기록."
+        ],
+        "height": 184,
+        "mobile_title_size": 18.0,
+        "mobile_lines": [
+          "『밑바닥부터 시작하는 딥러닝』 기반",
+          "NumPy 신경망 구현과 학습 기록."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-gpu-programming",
+        "description": "2025년 1학기 GPU 프로그래밍 수업의 CUDA·cuBLAS·cuDNN 실습과 과제.",
+        "url": "https://github.com/Yunseo-Lab/lab-gpu-programming",
+        "private": true,
+        "art": "category-labs",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "2025년 1학기 GPU 프로그래밍",
+          "수업의 CUDA·cuBLAS·cuDNN",
+          "실습과 과제."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "2025년 1학기 GPU 프로그래밍 수업의",
+          "CUDA·cuBLAS·cuDNN 실습과 과제."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-iot-programming",
+        "description": "2025년 1학기 IoT 프로그래밍 수업의 실습·과제·중간고사 기록.",
+        "url": "https://github.com/Yunseo-Lab/lab-iot-programming",
+        "private": true,
+        "art": "category-tools",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "2025년 1학기 IoT 프로그래밍 수업의",
+          "실습·과제·중간고사 기록."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "2025년 1학기 IoT 프로그래밍 수업의",
+          "실습·과제·중간고사 기록."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-langchain-mcp",
+        "description": "MCP 문서 도구와 OpenAI Agents SDK를 연결하는 Streamlit 문서 질의응답 에이전트 실험.",
+        "url": "https://github.com/Yunseo-Lab/lab-langchain-mcp",
+        "private": true,
+        "art": "hello-agent",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "MCP 문서 도구와 OpenAI Agents",
+          "SDK를 연결하는 Streamlit 문서",
+          "질의응답 에이전트 실험."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "MCP 문서 도구와 OpenAI Agents",
+          "SDK를 연결하는 Streamlit 문서",
+          "질의응답 에이전트 실험."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "lab-quant-trading",
+        "description": "조코딩 비트코인 예제를 활용한 퀀트·자동매매 학습 코드.",
+        "url": "https://github.com/Yunseo-Lab/lab-quant-trading",
+        "private": true,
+        "art": "ranker",
+        "label": "lab-",
+        "title_size": 22,
+        "lines": [
+          "조코딩 비트코인 예제를 활용한",
+          "퀀트·자동매매 학습 코드."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "조코딩 비트코인 예제를 활용한",
+          "퀀트·자동매매 학습 코드."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  },
+  {
+    "key": "study",
+    "title": "Study",
+    "subtitle": "이론·교재·수업을 따라 정리한 학습 기록",
+    "repos": [
+      {
+        "name": "study-algorithms",
+        "description": "Python 기반 알고리즘·자료구조 이론 정리와 코딩 테스트 문제 풀이.",
+        "url": "https://github.com/Yunseo-Lab/study-algorithms",
+        "private": true,
+        "art": "category-study",
+        "label": "study-",
+        "title_size": 22,
+        "lines": [
+          "Python 기반 알고리즘·자료구조 이론",
+          "정리와 코딩 테스트 문제 풀이."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Python 기반 알고리즘·자료구조 이론",
+          "정리와 코딩 테스트 문제 풀이."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "study-ml-dl",
+        "description": "머신러닝·딥러닝 핵심 이론과 Python·PyTorch 기반 Jupyter 실습 노트.",
+        "url": "https://github.com/Yunseo-Lab/study-ml-dl",
+        "private": true,
+        "art": "category-study",
+        "label": "study-",
+        "title_size": 22,
+        "lines": [
+          "머신러닝·딥러닝 핵심 이론과",
+          "Python·PyTorch 기반 Jupyter 실습",
+          "노트."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "머신러닝·딥러닝 핵심 이론과",
+          "Python·PyTorch 기반 Jupyter 실습",
+          "노트."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "study-nlp-with-transformers",
+        "description": "『트랜스포머를 활용한 자연어 처리』 기반 NLP 학습 기록.",
+        "url": "https://github.com/Yunseo-Lab/study-nlp-with-transformers",
+        "private": true,
+        "art": "category-study",
+        "label": "study-",
+        "title_size": 18.5,
+        "lines": [
+          "『트랜스포머를 활용한 자연어 처리』",
+          "기반 NLP 학습 기록."
+        ],
+        "height": 184,
+        "mobile_title_size": 20.0,
+        "mobile_lines": [
+          "『트랜스포머를 활용한 자연어 처리』 기반",
+          "NLP 학습 기록."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  },
+  {
+    "key": "tools",
+    "title": "Tools",
+    "subtitle": "반복 작업을 줄이는 자동화와 유틸리티",
+    "repos": [
+      {
+        "name": "tool-auto-video-downloader",
+        "description": "Selenium 기반 로그인·영상 메타데이터 추출과 병렬 다운로드를 자동화하는 Python 도구.",
+        "url": "https://github.com/Yunseo-Lab/tool-auto-video-downloader",
+        "private": true,
+        "art": "category-tools",
+        "label": "tool-",
+        "title_size": 19.0,
+        "lines": [
+          "Selenium 기반 로그인·영상",
+          "메타데이터 추출과 병렬 다운로드를",
+          "자동화하는 Python 도구."
+        ],
+        "height": 184,
+        "mobile_title_size": 20.5,
+        "mobile_lines": [
+          "Selenium 기반 로그인·영상 메타데이터",
+          "추출과 병렬 다운로드를 자동화하는",
+          "Python 도구."
+        ],
+        "mobile_height": 180
+      },
+      {
+        "name": "tool-cgv-imax-helper",
+        "description": "CGV IMAX 상영의 인접 좌석을 모니터링하고 선택하는 Chrome 확장 프로그램.",
+        "url": "https://github.com/Yunseo-Lab/tool-cgv-imax-helper",
+        "private": true,
+        "art": "category-tools",
+        "label": "tool-",
+        "title_size": 22,
+        "lines": [
+          "CGV IMAX 상영의 인접 좌석을",
+          "모니터링하고 선택하는 Chrome 확장",
+          "프로그램."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "CGV IMAX 상영의 인접 좌석을",
+          "모니터링하고 선택하는 Chrome 확장",
+          "프로그램."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  },
+  {
+    "key": "notes",
+    "title": "Notes",
+    "subtitle": "생각과 지식을 모으는 개인 문서",
+    "repos": [
+      {
+        "name": "notes-yunseo-lab",
+        "description": "Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록.",
+        "url": "https://github.com/Yunseo-Lab/notes-yunseo-lab",
+        "private": true,
+        "art": "category-notes",
+        "label": "notes-",
+        "title_size": 22,
+        "lines": [
+          "Obsidian 기반 개인 지식 보관소와",
+          "노트·대시보드·템플릿 동기화 기록."
+        ],
+        "height": 184,
+        "mobile_title_size": 21.5,
+        "mobile_lines": [
+          "Obsidian 기반 개인 지식 보관소와",
+          "노트·대시보드·템플릿 동기화 기록."
+        ],
+        "mobile_height": 180
+      }
+    ]
+  }
+]
