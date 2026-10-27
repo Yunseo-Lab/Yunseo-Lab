@@ -34,6 +34,7 @@ def check():
     expected_links = Counter(f'https://github.com/{profile["owner"]}/{r["name"]}' for r in repos)
     assert Counter(link for link in parsed.links if link.startswith('https://github.com/')) == expected_links, 'Repository link mismatch'
     sources = {profile['banner']['path'], *profile['fonts'].values()}
+    sources.update(profile.get('branding', {}).values())
     sources.update(r['illustration'] for r in repos)
     sources.update(c['illustration'] for c in profile['categories'])
     generated = set()

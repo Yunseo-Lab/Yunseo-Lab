@@ -12,6 +12,11 @@
     "path": "assets/branding/nubi-banner.png",
     "alt": "NUBI, a friendly silver alien exploring a mauve planet"
   },
+  "branding": {
+    "avatar_original": "assets/branding/nubi-avatar.png",
+    "avatar_profile": "assets/branding/nubi-avatar.jpg",
+    "license": "assets/branding/LICENSE"
+  },
   "fonts": {
     "regular": "assets/fonts/Pretendard-Regular.otf",
     "bold": "assets/fonts/Pretendard-Bold.otf",
