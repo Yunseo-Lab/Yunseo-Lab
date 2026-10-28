@@ -350,6 +350,14 @@
       "description": "경력과 프로젝트를 소개하는 개인 포트폴리오 공간.",
       "illustration": "assets/illustrations/categories/yunseo.png",
       "category_override": "yunseo"
+    },
+    {
+      "id": 1436630915,
+      "name": "proj-kakao-agent",
+      "private": true,
+      "fork": false,
+      "description": "OrbStack의 Android·Iris와 Hermes Agent를 연결해 방별 대화와 비서·클론 프로필을 운영하는 카카오톡 에이전트.",
+      "illustration": "assets/illustrations/categories/projects.png"
     }
   ]
 }
