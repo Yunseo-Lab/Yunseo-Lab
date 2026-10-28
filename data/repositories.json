@@ -20,12 +20,12 @@
     },
     {
       "id": 866378917,
-      "name": "space-wiki",
+      "name": "yunseo-wiki",
       "private": true,
       "fork": false,
       "description": "Obsidian 기반 개인 지식 보관소와 노트·대시보드·템플릿 동기화 기록.",
-      "illustration": "assets/illustrations/categories/space.png",
-      "category_override": "space"
+      "illustration": "assets/illustrations/categories/yunseo.png",
+      "category_override": "yunseo"
     },
     {
       "id": 877696187,
@@ -188,14 +188,6 @@
       "illustration": "assets/illustrations/cards/storybook.png"
     },
     {
-      "id": 1150695364,
-      "name": "proj-llm-chat-app",
-      "private": true,
-      "fork": false,
-      "description": "Cloudflare Workers AI 채팅 템플릿을 활용한 스트리밍 LLM 웹 앱 실습.",
-      "illustration": "assets/illustrations/cards/chat.png"
-    },
-    {
       "id": 1163390077,
       "name": "proj-chat-frontend",
       "private": true,
@@ -334,7 +326,7 @@
     },
     {
       "id": 1434369314,
-      "name": "proj-next-step-planner",
+      "name": "proj-planner",
       "private": true,
       "fork": false,
       "description": "Personal monthly and hourly weekly planner with a Hallmark Hum design",
@@ -347,8 +339,8 @@
       "private": true,
       "fork": false,
       "description": "개인 블로그의 글과 사이트 소스를 관리하는 공간.",
-      "illustration": "assets/illustrations/categories/space.png",
-      "category_override": "space"
+      "illustration": "assets/illustrations/categories/yunseo.png",
+      "category_override": "yunseo"
     },
     {
       "id": 1435666201,
@@ -356,8 +348,8 @@
       "private": true,
       "fork": false,
       "description": "경력과 프로젝트를 소개하는 개인 포트폴리오 공간.",
-      "illustration": "assets/illustrations/categories/space.png",
-      "category_override": "space"
+      "illustration": "assets/illustrations/categories/yunseo.png",
+      "category_override": "yunseo"
     }
   ]
 }

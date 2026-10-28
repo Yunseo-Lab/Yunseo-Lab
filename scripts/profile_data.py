@@ -50,7 +50,7 @@ def validate(profile, repositories, root=ROOT, check_files=True):
     if not repositories:
         raise ValueError('Refusing an empty repository inventory')
     keys = [c['key'] for c in profile['categories']]
-    if keys != ['public', 'projects', 'labs', 'study', 'tools', 'space']:
+    if keys != ['public', 'projects', 'labs', 'study', 'tools', 'yunseo']:
         raise ValueError('Preserve the approved six-category navigation order')
     ids, names = set(), set()
     for repo in repositories:
