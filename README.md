@@ -19,7 +19,7 @@ I build systems that help people find, understand, and work with information.
 <td align="center" width="16%"><a href="#user-content-labs"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/labs.png" alt="NUBI Labs" width="110"><br><strong>Labs</strong></a><br><sub>11 repositories</sub></td>
 <td align="center" width="16%"><a href="#user-content-study"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/study.png" alt="NUBI Study" width="110"><br><strong>Study</strong></a><br><sub>3 repositories</sub></td>
 <td align="center" width="16%"><a href="#user-content-tools"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/tools.png" alt="NUBI Tools" width="110"><br><strong>Tools</strong></a><br><sub>2 repositories</sub></td>
-<td align="center" width="16%"><a href="#user-content-yunseo"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/yunseo.png" alt="NUBI yunseo" width="110"><br><strong>yunseo</strong></a><br><sub>3 repositories</sub></td>
+<td align="center" width="16%"><a href="#user-content-yunseo-repositories"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/illustrations/categories/yunseo.png" alt="NUBI yunseo" width="110"><br><strong>yunseo</strong></a><br><sub>3 repositories</sub></td>
 </tr>
 </table>
 
@@ -98,7 +98,7 @@ I build systems that help people find, understand, and work with information.
 <a href="https://github.com/Yunseo-Lab/tool-cgv-imax-helper" title="tool-cgv-imax-helper — CGV IMAX 상영의 인접 좌석을 모니터링하고 선택하는 Chrome 확장 프로그램."><picture><source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/tool-cgv-imax-helper.mobile.svg?v=ac0036407f03"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/cards/tool-cgv-imax-helper.svg?v=605b7ca80e05" alt="tool-cgv-imax-helper — CGV IMAX 상영의 인접 좌석을 모니터링하고 선택하는 Chrome 확장 프로그램." width="410"></picture></a>
 </p>
 
-<a name="yunseo"></a>
+<a name="yunseo-repositories"></a>
 
 <p><picture><source media="(max-width: 480px)" srcset="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/yunseo.mobile.svg?v=b3577d8c7e65"><img src="https://raw.githubusercontent.com/Yunseo-Lab/Yunseo-Lab/main/assets/generated/sections/yunseo.svg?v=57be9f98cb58" alt="yunseo · 3 · 지식을 쌓고 생각과 작업을 나누는 개인 공간" width="840"></picture></p>
 
