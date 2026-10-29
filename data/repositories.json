@@ -213,7 +213,7 @@
     },
     {
       "id": 1234356462,
-      "name": "proj-trace2skill",
+      "name": "lab-trace2skill",
       "private": true,
       "fork": false,
       "description": "Trace2Skill의 Codex SDK 기반 재현 포트와 에이전트 스킬 진화·SpreadsheetBench 평가 실험.",
