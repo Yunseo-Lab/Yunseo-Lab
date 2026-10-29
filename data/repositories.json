@@ -108,14 +108,6 @@
       "illustration": "assets/illustrations/cards/storybook.png"
     },
     {
-      "id": 963813905,
-      "name": "proj-say-it-see-it",
-      "private": true,
-      "fork": false,
-      "description": "LangGraph와 LayoutPrompter로 레이아웃·배경·이미지 생성을 연결하는 디자인 에이전트 실험.",
-      "illustration": "assets/illustrations/cards/storybook.png"
-    },
-    {
       "id": 964990343,
       "name": "lab-langchain-mcp",
       "private": true,
@@ -180,14 +172,6 @@
       "illustration": "assets/illustrations/cards/onnx.png"
     },
     {
-      "id": 1141049393,
-      "name": "proj-storybook-studio",
-      "private": true,
-      "fork": false,
-      "description": "React·TypeScript·Vite 기반 Storybook Studio의 초기 화면 프로토타입.",
-      "illustration": "assets/illustrations/cards/storybook.png"
-    },
-    {
       "id": 1163390077,
       "name": "proj-chat-frontend",
       "private": true,
@@ -249,14 +233,6 @@
       "private": true,
       "fork": false,
       "description": "경력 근거·채용 공고·지원 이력과 직무 적합도 분석을 관리하는 로컬 우선 커리어 워크스페이스.",
-      "illustration": "assets/illustrations/cards/folio.png"
-    },
-    {
-      "id": 1292090202,
-      "name": "proj-huh-yunseo-portfolio",
-      "private": true,
-      "fork": false,
-      "description": "프로필·경력·테마·자산을 관리하고 공개 포트폴리오를 발행하는 React·Fastify 서비스.",
       "illustration": "assets/illustrations/cards/folio.png"
     },
     {
